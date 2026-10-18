@@ -1,4 +1,6 @@
-<img width="981" height="472" alt="Image" src="https://github.com/user-attachments/assets/3480b5bb-8bda-41db-a5fb-33610b7f6214" />
+
+
+
 # Form Biodata Mahasiswa (PHP)
 
 Tugas Individu – Pertemuan 02: Bangun form biodata yang fungsional, terbaca, dan mudah diuji.
@@ -24,7 +26,7 @@ biodata-php/
 ├── assets/app.js          # event & logika sisi klien
 └── README.md
 ```
-
+<img width="1215" height="881" alt="Image" src="https://github.com/user-attachments/assets/e12130e4-b46e-404d-8314-bc578d05d2ad" />
 ## Fitur sesuai rubrik
 
 | Aspek | Implementasi |
@@ -50,7 +52,7 @@ biodata-php/
 | Alamat | Wajib, 10–200 karakter |
 | Hobi | Opsional, hanya nilai dari daftar |
 | Pernyataan benar | Wajib dicentang |
-
+<img width="1337" height="911" alt="Image" src="https://github.com/user-attachments/assets/e354aab2-4cad-46b1-92d9-0557f0e4022e" />
 ## Skenario uji singkat
 
 1. Kirim form kosong: semua kolom wajib menampilkan pesan error, fokus pindah ke kolom pertama yang salah.
@@ -63,3 +65,4 @@ biodata-php/
 ## Tangkapan layar
 
 Tempel tangkapan layar di sini: form kosong, form dengan error, dan halaman hasil.
+<img width="1093" height="907" alt="Image" src="https://github.com/user-attachments/assets/0b81e9b5-036a-4fca-a7ff-5c43870f96a1" />
