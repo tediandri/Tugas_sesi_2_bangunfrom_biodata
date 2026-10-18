@@ -1,3 +1,4 @@
+<img width="981" height="472" alt="Image" src="https://github.com/user-attachments/assets/3480b5bb-8bda-41db-a5fb-33610b7f6214" />
 # Form Biodata Mahasiswa (PHP)
 
 Tugas Individu – Pertemuan 02: Bangun form biodata yang fungsional, terbaca, dan mudah diuji.
